@@ -1,7 +1,5 @@
 """
-python版恶俗古风自动生成器.py
-模仿自: http://www.jianshu.com/p/f893291674ca
-2016年4月4日 18:37:31 codegay
+
 """
  
 from random import sample
