@@ -1,2 +1,2 @@
 # pythonAutomaticGenerator
-python版恶俗古风自动生成器
+python版古风自动生成器
