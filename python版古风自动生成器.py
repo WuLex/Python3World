@@ -34,7 +34,7 @@ def bard():
     print(temp1)
  
 os.system("@title python版恶俗古风自动生成器")
- 
+
 for r in range(99):
     bard()
     time.sleep(1)
