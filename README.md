@@ -1,2 +1,2 @@
-# pythonAutomaticGenerator
-python版古风自动生成器
+# Python3World
+python编程相关示例
